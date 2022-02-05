@@ -15,15 +15,270 @@ Required Textbooks
 
 Each assignment referenced in the table, if available, is provided in the [Study Materials]({{< baseurl >}}/pages/study-materials) section, except the audio files. Some files are not be provided here due to copyright restrictions.
 
-| SES # | BEFORE CLASS | IN CLASS |
-| --- | --- | --- |
-| 1 | Welcome Aboard |  {{< br >}}{{< br >}} *   Course Introduction.{{< br >}}*   What is your name?{{< br >}}*   Hanyu Pinyin: Tones and Initials. {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} 1.  Read pp. 1–18 of the 'Hanyu Pinyin: Transcribing Chinese Sounds' handout (This handout is distributed to class and not available on OCW site due to copyright restrictions.) Read the sentences in Pinyin on pp. 19–20 on your own.{{< br >}}2.  Learn the Pronounceable Initials Chart by heart.{{< br >}}3.  If Hanyu Pinyin is new for you, familiarize yourself with the initials and finals and corresponding sounds by listening to the audio files at [_Hanyu Pinyin for Mandarin Speakers_]({{< baseurl >}}/pages/tools-and-resources#Hanyu_Pinyin). {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Quiz: Write out the Pronounceable Initials Chart.{{< br >}}*   Pinyin: Finals and Spelling Rules.{{< br >}}*   Pinyin exercise on pp. 21–23 of the 'Hanyu Pinyin: Transcribing Chinese Sounds' handout. {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} 1.  Review 'Hanyu Pinyin: Transcribing Chinese Sounds' handout and learn the Finals and Spelling Rules in it by heart.{{< br >}}2.  Writing Assignment: Using Pinyin, with tone marks, handwrite a composition of no less than 80 syllables about yourself. Please write on every other line and leave 1.25-inch margins for each piece of paper you use.{{< br >}}3.  Read \[LC\] Lesson 1.{{< br >}}4.  Optional Assignment: Write the [character _yong_]({{< baseurl >}}/pages/study-materials#Character_Yong) and perfect your strokes. Write the [big characters in Lesson 1]({{< baseurl >}}/pages/study-materials#Lesson_1), following the correct stroke orders. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Hand in the writing assignment.{{< br >}}*   Quiz: Pinyin Dictation. (You will need to write down 2 sentences in pinyin, with tone marks){{< br >}}*   Characters: Strokes, Stroke Order and Radicals.{{< br >}}*   Character Exercises in \[LC\] Lesson 1. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} 1.  Read \[LC\] Lesson 2.{{< br >}}2.  Optional Assignment: Write the [big characters in Lesson 2]({{< baseurl >}}/pages/study-materials#Lesson_2), following the correct stroke orders. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Dictation: 15 of the big characters in \[LC\] Lesson 1 with pinyin, tone marks included.{{< br >}}*   Character Exercises in \[LC\] Lesson 2. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} 1.  Read \[LC\] Lesson 3.{{< br >}}2.  Optional Assignment: Write the [big characters in Lesson 3]({{< baseurl >}}/pages/study-materials#Lesson_3), following the correct stroke orders.{{< br >}}3.  Review the 'Hanyu Pinyin' handouts and Lessons 1-2.{{< br >}}4.  To prepare for the test, you need to know the Pinyin system and recognize and reproduce the big characters in Lesson 1 and Lesson 2 from memory. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   \[LC\] Lesson 3, Exercise.{{< br >}}*   Test 1: 20-minute test on Pinyin and characters in \[LC\] Lessons 1–2. {{< br >}}{{< br >}} In the test, there will be the following types of questions: {{< br >}}{{< br >}} 1.  Transcribing Characters to Pinyin.{{< br >}}2.  Transcribing Pinyin to Characters.{{< br >}}3.  Answering Questions with Characters. {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} 1.  Read \[LC\] Lesson 4 with the writing assignment of practicing writing the [big characters in Lesson 4]({{< baseurl >}}/pages/study-materials#Lesson_4) on your own, following the correct stroke orders.{{< br >}}2.  Learn the big characters in Lesson 3 by heart.{{< br >}}3.  Using the characters in Lessons 1–4, handwrite 3 sentences of no less than 20 characters each. Then transcribe your sentences into _Pinyin_ with tone marks. Write about different things for the 3 sentences. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the [calligraphy sheet]({{< baseurl >}}/pages/study-materials). {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Dictation: 15 of the big characters in \[LC\] Lesson 3 with pinyin, tone marks included.{{< br >}}*   Character Exercises in \[LC\] Lesson 4.{{< br >}}*   Hand in your writing assignments. {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} 1.  Read \[LC \] Lesson 5. Practice writing the [big characters in Lesson 5]({{< baseurl >}}/pages/study-materials#Lesson_5) on your own, following the correct stroke orders.{{< br >}}2.  Learn the big characters in Lesson 4 by heart. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Dictation: 15 of the big characters in \[LC\] Lesson 4 with pinyin, tone marks included.{{< br >}}*   Character Exercises in \[LC\] Lesson 5. {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} 1.  Read \[LC\] Lesson 6 with the writing assignment of practicing writing the big characters in Lesson 6on your own, following the correct stroke orders.{{< br >}}2.  Learn the big characters in Lesson 5 by heart.{{< br >}}3.  Using the characters in Lessons 1–6, handwrite a composition of no less than 120 characters (pinyin transcription optional) on your hometown. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy sheet. Search for characters you know how to say but not how to write with pinyin at the website of [Learn Chinese Characters 中文字譜](http://zhongwen.com). {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Dictation: 15 of the big characters in \[LC\] Lesson 5 with pinyin, tone marks included.{{< br >}}*   Character Exercises in \[LC\] Lesson 6.{{< br >}}*   Hand in your writing assignments. {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} 1.  Learn the big characters in Lesson 6 by heart.{{< br >}}2.  Using the characters Lessons 1–6, handwrite a composition of no less than 120 characters on your life at MIT. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy sheet. Search for characters you know how to say but not how to write with pinyin at the website of [Learn Chinese Characters 中文字譜](http://zhongwen.com). {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Dictation: 15 of the big characters in \[LC\] Lesson 6 with pinyin, tone marks included.{{< br >}}*   Hand in your writing assignments.{{< br >}}*   Review characters from Lessons 1–6.{{< br >}}*   Class activity. {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} 1.  Review 'Hanyu Pinyin' handout and \[LC\] Lessons 1–6. {{< br >}}{{< br >}} To prepare for the test, you need to: {{< br >}}{{< br >}} 1.  know the Pinyin system.{{< br >}}2.  be able to recognize and reproduce the big characters in Lessons 1–6 from all memory. {{< br >}}{{< br >}} 4.  Read '[Converting between Full-form and Simplified Characters]({{< baseurl >}}/pages/study-materials).' {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} *   Converting between full- form and simplified characters.{{< br >}}*   Test 2: 35-minute test on Pinyin and characters in \[LC\] Lessons 1–6. {{< br >}}{{< br >}} In the test, There will be the following types of questions: {{< br >}}{{< br >}} 1.  Transcribing Characters to Pinyin.{{< br >}}2.  Transcribing Pinyin to Characters.{{< br >}}3.  Answering Questions with Characters.{{< br >}}4.  Reading Comprehension. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+BEFORE CLASS
+{{< thclose >}}
+{{< thopen >}}
+IN CLASS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Welcome Aboard
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Course Introduction.
+*   What is your name?
+*   Hanyu Pinyin: Tones and Initials.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Read pp. 1–18 of the 'Hanyu Pinyin: Transcribing Chinese Sounds' handout (This handout is distributed to class and not available on OCW site due to copyright restrictions.) Read the sentences in Pinyin on pp. 19–20 on your own.
+2.  Learn the Pronounceable Initials Chart by heart.
+3.  If Hanyu Pinyin is new for you, familiarize yourself with the initials and finals and corresponding sounds by listening to the audio files at [_Hanyu Pinyin for Mandarin Speakers_]({{< baseurl >}}/pages/tools-and-resources#Hanyu_Pinyin).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Quiz: Write out the Pronounceable Initials Chart.
+*   Pinyin: Finals and Spelling Rules.
+*   Pinyin exercise on pp. 21–23 of the 'Hanyu Pinyin: Transcribing Chinese Sounds' handout.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Review 'Hanyu Pinyin: Transcribing Chinese Sounds' handout and learn the Finals and Spelling Rules in it by heart.
+2.  Writing Assignment: Using Pinyin, with tone marks, handwrite a composition of no less than 80 syllables about yourself. Please write on every other line and leave 1.25-inch margins for each piece of paper you use.
+3.  Read \[LC\] Lesson 1.
+4.  Optional Assignment: Write the [character _yong_]({{< baseurl >}}/pages/study-materials#Character_Yong) and perfect your strokes. Write the [big characters in Lesson 1]({{< baseurl >}}/pages/study-materials#Lesson_1), following the correct stroke orders.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Hand in the writing assignment.
+*   Quiz: Pinyin Dictation. (You will need to write down 2 sentences in pinyin, with tone marks)
+*   Characters: Strokes, Stroke Order and Radicals.
+*   Character Exercises in \[LC\] Lesson 1.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Read \[LC\] Lesson 2.
+2.  Optional Assignment: Write the [big characters in Lesson 2]({{< baseurl >}}/pages/study-materials#Lesson_2), following the correct stroke orders.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Dictation: 15 of the big characters in \[LC\] Lesson 1 with pinyin, tone marks included.
+*   Character Exercises in \[LC\] Lesson 2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Read \[LC\] Lesson 3.
+2.  Optional Assignment: Write the [big characters in Lesson 3]({{< baseurl >}}/pages/study-materials#Lesson_3), following the correct stroke orders.
+3.  Review the 'Hanyu Pinyin' handouts and Lessons 1-2.
+4.  To prepare for the test, you need to know the Pinyin system and recognize and reproduce the big characters in Lesson 1 and Lesson 2 from memory.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   \[LC\] Lesson 3, Exercise.
+*   Test 1: 20-minute test on Pinyin and characters in \[LC\] Lessons 1–2.
+
+In the test, there will be the following types of questions:
+
+1.  Transcribing Characters to Pinyin.
+2.  Transcribing Pinyin to Characters.
+3.  Answering Questions with Characters.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Read \[LC\] Lesson 4 with the writing assignment of practicing writing the [big characters in Lesson 4]({{< baseurl >}}/pages/study-materials#Lesson_4) on your own, following the correct stroke orders.
+2.  Learn the big characters in Lesson 3 by heart.
+3.  Using the characters in Lessons 1–4, handwrite 3 sentences of no less than 20 characters each. Then transcribe your sentences into _Pinyin_ with tone marks. Write about different things for the 3 sentences. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the [calligraphy sheet]({{< baseurl >}}/pages/study-materials).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Dictation: 15 of the big characters in \[LC\] Lesson 3 with pinyin, tone marks included.
+*   Character Exercises in \[LC\] Lesson 4.
+*   Hand in your writing assignments.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Read \[LC \] Lesson 5. Practice writing the [big characters in Lesson 5]({{< baseurl >}}/pages/study-materials#Lesson_5) on your own, following the correct stroke orders.
+2.  Learn the big characters in Lesson 4 by heart.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Dictation: 15 of the big characters in \[LC\] Lesson 4 with pinyin, tone marks included.
+*   Character Exercises in \[LC\] Lesson 5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Read \[LC\] Lesson 6 with the writing assignment of practicing writing the big characters in Lesson 6on your own, following the correct stroke orders.
+2.  Learn the big characters in Lesson 5 by heart.
+3.  Using the characters in Lessons 1–6, handwrite a composition of no less than 120 characters (pinyin transcription optional) on your hometown. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy sheet. Search for characters you know how to say but not how to write with pinyin at the website of [Learn Chinese Characters 中文字譜](http://zhongwen.com).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Dictation: 15 of the big characters in \[LC\] Lesson 5 with pinyin, tone marks included.
+*   Character Exercises in \[LC\] Lesson 6.
+*   Hand in your writing assignments.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Learn the big characters in Lesson 6 by heart.
+2.  Using the characters Lessons 1–6, handwrite a composition of no less than 120 characters on your life at MIT. Please write on every other line and leave 1.25-inch margins for each piece of paper you use if you do not use the calligraphy sheet. Search for characters you know how to say but not how to write with pinyin at the website of [Learn Chinese Characters 中文字譜](http://zhongwen.com).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Dictation: 15 of the big characters in \[LC\] Lesson 6 with pinyin, tone marks included.
+*   Hand in your writing assignments.
+*   Review characters from Lessons 1–6.
+*   Class activity.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  Review 'Hanyu Pinyin' handout and \[LC\] Lessons 1–6.
+
+To prepare for the test, you need to:
+
+1.  know the Pinyin system.
+2.  be able to recognize and reproduce the big characters in Lessons 1–6 from all memory.
+
+4.  Read '[Converting between Full-form and Simplified Characters]({{< baseurl >}}/pages/study-materials).'
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Converting between full- form and simplified characters.
+*   Test 2: 35-minute test on Pinyin and characters in \[LC\] Lessons 1–6.
+
+In the test, There will be the following types of questions:
+
+1.  Transcribing Characters to Pinyin.
+2.  Transcribing Pinyin to Characters.
+3.  Answering Questions with Characters.
+4.  Reading Comprehension.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

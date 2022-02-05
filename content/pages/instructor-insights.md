@@ -38,13 +38,66 @@ Instructor Insights
 
 _In the following videos, Min-Min Liang describes various aspects of how she teaches _21G.107 Chinese I (Streamlined).__
 
-| English-language Videos | Chinese-language Videos |
-| --- | --- |
-| [Instructor Interview: Philosophical Approach to Language Teaching]({{< baseurl >}}/resources/instructor-interview-philosophical) | [中文快班的教學哲學 / 中文快班的教学哲学]({{< baseurl >}}/resources/instructor-interview-philosophical-chinese) |
-| [Instructor Interview: Teaching Heritage Learners in a Streamlined Language Course]({{< baseurl >}}/resources/instructor-interview-streamlined) | [教導具華語基礎的學生 / 教导具华语基础的学生]({{< baseurl >}}/resources/instructor-interview-streamlined-chinese) |
-| [Instructor Interview: Teaching with Lingt Technology]({{< baseurl >}}/resources/instructor-interview-lingt) | [使用Lingt於課堂教學 / 使用Lingt于课堂教学]({{< baseurl >}}/resources/instructor-interview-lingt-chinese) |
-| [Instructor Interview: Assessing Students’ Language Learning]({{< baseurl >}}/resources/instructor-interview-assessing) | [評量學生的語言學習 / 评量学生的语言学习]({{< baseurl >}}/resources/instructor-interview-assessing-chinese) |
-| [Instructor Interview: Incorporating Authentic Text Going Forward]({{< baseurl >}}/resources/instructor-interview-course-iteration) | [未來教材的更新與展望 / 未来教材的更新与展望]({{< baseurl >}}/resources/instructor-interview-course-iteration-chinese) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+English-language Videos
+{{< thclose >}}
+{{< thopen >}}
+Chinese-language Videos
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Instructor Interview: Philosophical Approach to Language Teaching]({{< baseurl >}}/resources/instructor-interview-philosophical)
+{{< tdclose >}}
+{{< tdopen >}}
+[中文快班的教學哲學 / 中文快班的教学哲学]({{< baseurl >}}/resources/instructor-interview-philosophical-chinese)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Instructor Interview: Teaching Heritage Learners in a Streamlined Language Course]({{< baseurl >}}/resources/instructor-interview-streamlined)
+{{< tdclose >}}
+{{< tdopen >}}
+[教導具華語基礎的學生 / 教导具华语基础的学生]({{< baseurl >}}/resources/instructor-interview-streamlined-chinese)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Instructor Interview: Teaching with Lingt Technology]({{< baseurl >}}/resources/instructor-interview-lingt)
+{{< tdclose >}}
+{{< tdopen >}}
+[使用Lingt於課堂教學 / 使用Lingt于课堂教学]({{< baseurl >}}/resources/instructor-interview-lingt-chinese)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Instructor Interview: Assessing Students’ Language Learning]({{< baseurl >}}/resources/instructor-interview-assessing)
+{{< tdclose >}}
+{{< tdopen >}}
+[評量學生的語言學習 / 评量学生的语言学习]({{< baseurl >}}/resources/instructor-interview-assessing-chinese)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Instructor Interview: Incorporating Authentic Text Going Forward]({{< baseurl >}}/resources/instructor-interview-course-iteration)
+{{< tdclose >}}
+{{< tdopen >}}
+[未來教材的更新與展望 / 未来教材的更新与展望]({{< baseurl >}}/resources/instructor-interview-course-iteration-chinese)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Curriculum Information
 ----------------------

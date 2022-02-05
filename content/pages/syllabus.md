@@ -54,28 +54,184 @@ Classroom activities will include discussing the content of the texts, short rep
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class Performance– {{< br >}}{{< br >}} *   Attendance 5%{{< br >}}*   Promptness 3%{{< br >}}*   Preparedness 5%{{< br >}}*   Class Report 7%{{< br >}}*   Participation 10% {{< br >}}{{< br >}}  | 30% |
-| Written Assignments | 20% |
-| Lingt Speaking Assignments | 5% |
-| Bi-weekly Tests | 30% |
-| Vocabulary Quizzes and Dictations | 10% |
-| End-of-term Essay | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class Performance–
+
+*   Attendance 5%
+*   Promptness 3%
+*   Preparedness 5%
+*   Class Report 7%
+*   Participation 10%
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lingt Speaking Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bi-weekly Tests
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vocabulary Quizzes and Dictations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End-of-term Essay
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Grading Rubric
 
-| GRADES | POINTS |
-| --- | --- |
-| A | 100–95 |
-| A- | 94.9–90 |
-| B+ | 89.9–86.7 |
-| B | 86.6–83.3 |
-| B- | 83.2–80 |
-| C+ | 79.9–75 |
-| C | 74.9–70 |
-| C- | 69.9–60 |
-| F | below 60 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+100–95
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A-
+{{< tdclose >}}
+{{< tdopen >}}
+94.9–90
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+{{< tdopen >}}
+89.9–86.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+86.6–83.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B-
+{{< tdclose >}}
+{{< tdopen >}}
+83.2–80
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C+
+{{< tdclose >}}
+{{< tdopen >}}
+79.9–75
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+74.9–70
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C-
+{{< tdclose >}}
+{{< tdopen >}}
+69.9–60
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+below 60
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For the Vocabulary Quizzes and Dictations, vocabulary quizzes are done at the beginning of the first of the two periods devoted to each lesson. You will need to transcribe a sentence into Pinyin and translate it into English. Dictations of selected required characters are done after the two periods devoted to each lesson.
 
