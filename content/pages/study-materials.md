@@ -17,7 +17,7 @@ Writing Assignments
 
 [Writing Paper for Writing Assignments (PDF)]({{< baseurl >}}/resources/mit21g_107f14_writing)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Converting between Full-form and Simplified Characters (PDF)]({{< baseurl >}}/resources/mit21g_107f14_coverting)
+[Converting between Full-form and Simplified Characters (PDF)]({{< baseurl >}}/resources/mit21g_107f14_coverting)
 
 Required Characters in Daxue Yuwen
 ----------------------------------
@@ -49,33 +49,33 @@ Study Notes for Pinyin and Characters
 
 [Lecture Notes for \[LC\] Lesson 1 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stroke Order of Characters in \[LC\] Lesson 1 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars1_so)
+[Stroke Order of Characters in \[LC\] Lesson 1 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars1_so)
 
 [Lecture Notes for \[LC\] Lesson 2 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars2)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stroke Order of Characters in \[LC\] Lesson 2 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars2_so)
+[Stroke Order of Characters in \[LC\] Lesson 2 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars2_so)
 
 [Character Review for \[LC\] Lessons 1–2 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars1-2rev)
 
 [Lecture Notes for \[LC\] Lesson 3 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars3)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stroke Order of Characters in \[LC\] Lesson 3 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars3_so)
+[Stroke Order of Characters in \[LC\] Lesson 3 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars3_so)
 
 [Lecture Notes for \[LC\] Lesson 4 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars4)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stroke Order of Characters in \[LC\] Lesson 4 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars4_so)
+[Stroke Order of Characters in \[LC\] Lesson 4 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars4_so)
 
 [Lecture Notes for \[LC\] Lesson 5 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars5)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stroke Order of Characters in \[LC\] Lesson 5 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars5_so)
+[Stroke Order of Characters in \[LC\] Lesson 5 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars5_so)
 
 [Lecture Notes for \[LC\] Lesson 6 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars6)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stroke Order of Characters in \[LC\] Lesson 6 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars6_so)
+[Stroke Order of Characters in \[LC\] Lesson 6 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars6_so)
 
 [Lecture Notes for \[LC\] Lesson 7 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars7)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stroke Order of Characters in \[LC\] Lesson 7 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars7_so)
+[Stroke Order of Characters in \[LC\] Lesson 7 (PDF)]({{< baseurl >}}/resources/mit21g_107f14_chars7_so)
 
 Chinese Characters Exercises
 ----------------------------
