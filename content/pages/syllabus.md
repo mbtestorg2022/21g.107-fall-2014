@@ -22,7 +22,7 @@ Students are expected to be able to read texts written in either the full or sim
 Required Learning Materials
 ---------------------------
 
-1.  Wheatley, Julian. _[Learning Chinese: A Foundation Course in Mandarin](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011)._ Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
+1.  Wheatley, Julian. _[Learning Chinese: A Foundation Course in Mandarin](/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011)._ Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
 2.  _A Primer for Advanced Beginners of Chinese_: There are two versions of this textbook:
     1.  A simplified character version:  
         Li, Duanduan. _A Primer for Advanced Beginners of Chinese - Simplified Character Version Vol. 1. (__Daxue Yuwen)._ Columbia University Press, 2004. ISBN: 9780231135672.

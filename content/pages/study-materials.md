@@ -6,7 +6,7 @@ uid: 8b281a78-7af6-0ff6-b9ab-be5bf3c13f16
 
 The following course materials support the in-class activities and assignments:
 
-\[LC\] = Wheatley, Julian. [_Learning Chinese: A Foundation Course in Mandarin_](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011) Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
+\[LC\] = Wheatley, Julian. [_Learning Chinese: A Foundation Course in Mandarin_](/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011) Yale University Press, 2014. ISBN: 9780300141184. (The Character Text / 漢語基礎教材 / 汉语基础教材).
 
 \[PC\] = The simiplified character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese - Simplified Character Version Vol. 1. (__Daxue Yuwen)._ Columbia University Press, 2004. ISBN: 9780231135672; or the traditional character version: Li, Duanduan. _A Primer for Advanced Beginners of Chinese Vol. 1._ (_Daxue Yuwen)_. Columbia University Press, 2002. ISBN: 9780231125550.
 

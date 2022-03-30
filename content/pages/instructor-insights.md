@@ -10,7 +10,7 @@ Course Overview
 
 This page focuses on the course _21G.107 Chinese I (Streamlined)_ as it was taught by Min-Min Liang in Fall 2014.
 
-This course, in combination with [_21G.108 Chinese II (Streamlined)_](/courses/21g-108-chinese-ii-streamlined-spring-2015/), constitutes the elementary level of the streamlined Chinese sequence. Taught entirely in Chinese, the course is designed for students who have basic Chinese conversational skills, but who lack a corresponding level of literacy. The focus of the course is on learning standard language usage, reading in both full and simplified characters, and writing. 
+This course, in combination with [_21G.108 Chinese II (Streamlined)_](/courses/21g-108-chinese-ii-streamlined-spring-2015), constitutes the elementary level of the streamlined Chinese sequence. Taught entirely in Chinese, the course is designed for students who have basic Chinese conversational skills, but who lack a corresponding level of literacy. The focus of the course is on learning standard language usage, reading in both full and simplified characters, and writing. 
 
 Course Outcomes
 ---------------
